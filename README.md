@@ -1,4 +1,5 @@
-# EHDS Connect
+# EHDS Connect 
+# Team: Alice Hristov | Menna El Ghanam | Ayah El-Sharkawy | Mona Elhouriny
 
 ### One Health Data Space. Three Pathways.
 
@@ -12,7 +13,7 @@ It shows how health data can support individual patient care and medical researc
   <img src="https://img.youtube.com/vi/0BjEBm2xxrA/maxresdefault.jpg" alt="EHDS Connect demo video" width="100%" />
 </a>
 
-> Watch the project demo: [EHDS Connect — Clinical AI Hackathon Vienna 2026](https://www.youtube.com/watch?v=0BjEBm2xxrA)
+> Watch the project demo: [[EHDS Connect — Clinical AI Hackathon Vienna 2026](https://www.youtube.com/watch?v=0BjEBm2xxrA)](https://youtu.be/7fOM-FQJGj0)
 
 ---
 
