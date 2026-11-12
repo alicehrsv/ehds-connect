@@ -7,13 +7,15 @@
 
 It shows how health data can support individual patient care and medical research at the same time, while keeping privacy, transparency, and access control as first-class concerns.
 
+## Pitch Video 
+[![Pitch video](https://img.youtube.com/vi/7fOM-FQJGj0/hqdefault.jpg)](https://youtu.be/7fOM-FQJGj0)
+> https://youtu.be/7fOM-FQJGj0
+
 ## Demo video
 
 <a href="https://www.youtube.com/watch?v=0BjEBm2xxrA" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/0BjEBm2xxrA/maxresdefault.jpg" alt="EHDS Connect demo video" width="100%" />
 </a>
-
-> Watch the project demo: [[EHDS Connect — Clinical AI Hackathon Vienna 2026](https://www.youtube.com/watch?v=0BjEBm2xxrA)](https://youtu.be/7fOM-FQJGj0)
 
 ---
 
